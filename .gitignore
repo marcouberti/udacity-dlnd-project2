@@ -5,6 +5,8 @@ __pycache__/
 
 cifar*
 preprocess*
+checkpoint
+image_classification*
 
 # C extensions
 *.so
